@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages. This is the AgileTeam. We are the Best! I agree Wooooo!
+## Welcome to GitHub Pages. This is the AgileTeam. We are the Best! I agree Woooooo!
 
 You can use the [editor on GitHub](https://github.com/cezenekwe/Agileteam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
