@@ -18,14 +18,12 @@
 | - SEC 6030                 | Jhon Smith                 | $1400                      |Monday                    |
 | - SEC 6060                 | Beverly Flowers            | $1400                      |Thursday      
 -----------------------------
- <Pre>
  
 ## Project Managment
 
 <details>
 <summary> IPM </summary>
 <br>
-<pre>
 
 ----------------------
  |  Project Managment    | Instructor                 | Cost                       | Schedule                 | 
@@ -41,7 +39,6 @@
 <details>
 <summary> Cyber Security </summary>
 <br>
-<pre>
 
 ----------------------
  |  Cyber Security    | Instructor                 | Cost                       | Schedule                 | 
