@@ -10,7 +10,6 @@
 <pre>
 
 ----------------------
-<details open>
  |  Information Assurance     | Instructor                 | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
 | - MAJ 6610                 | Mario Yepes                | $1600                      |Wednesday / Tuesday       |
