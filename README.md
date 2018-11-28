@@ -9,6 +9,10 @@
 <br>
 <pre>
 
+## Information Assurance
+<details>
+<summary> Information Assurance </summary>
+<br>
 -----------------------
  |  Information Assurance     | Instructor                 | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
