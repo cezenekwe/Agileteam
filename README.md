@@ -10,7 +10,7 @@
 <pre>
 
 <br>
-## Information Assurance
+
 <details>
 <summary> Information Assurance </summary>
 <br>
