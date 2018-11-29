@@ -18,8 +18,8 @@
 -----------------------
 |  Information Assurance     | Instructor                 | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
-| - [MAJ 6050](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       |
-| - [MAJ 7000](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |
+| - [SEC 6050](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       |
+| - [SEC 7000](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |
 | - [SEC 6010](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [Ryan Connor](https://www.linkedin.com/in/ryan-connor-18216598/)                | $1400                      |Friday                    |
 | - [SEC 6030](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |
 | - [SEC 6060](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |
