@@ -18,7 +18,7 @@
 -----------------------
 |  Information Assurance     | Instructor                 | Cost                       | Schedule                 | 
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------
-| - [MAJ 6610](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       |
+| - [MAJ 6050](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       |
 | - [MAJ 7000](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |
 | - [SEC 6010](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [Ryan Connor](https://www.linkedin.com/in/ryan-connor-18216598/)                | $1400                      |Friday                    |
 | - [SEC 6030](http://www.wilmu.edu/courses/coursedescriptions.aspx?subcode=SEC&level=g)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |
