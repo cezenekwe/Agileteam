@@ -16,13 +16,13 @@
 <br>
  
 -----------------------
-|  Information Assurance     | Instructor                 | Cost                       | Schedule                 | 
-| -------------------------- |:--------------------------:| --------------------------:|--------------------------
-| - [SEC 6050](http://www.wilmu.edu/courses/syllabipdf/SEC6050.pdf)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       |
-| - [SEC 6070](http://www.wilmu.edu/courses/syllabipdf/SEC6070.pdf)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |
-| - [SEC 6010](http://www.wilmu.edu/courses/syllabipdf/SEC6010.pdf)                 | [Ryan Connor](https://www.linkedin.com/in/ryan-connor-18216598/)                | $1400                      |Friday                    |
-| - [SEC 6030](http://www.wilmu.edu/courses/syllabipdf/SEC6030.pdf)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |
-| - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |
+Information Assurance     | Instructor                 | Cost                       | Schedule                 | Register
+| -------------------------- |:--------------------------:| --------------------------:|--------------------------:|--------------------
+| - [SEC 6050](http://www.wilmu.edu/courses/syllabipdf/SEC6050.pdf)             | [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       | [Register for Class?](www.yahoo.com)
+| - [SEC 6070](http://www.wilmu.edu/courses/syllabipdf/SEC6070.pdf)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |Register for Class?
+| - [SEC 6010](http://www.wilmu.edu/courses/syllabipdf/SEC6010.pdf)                 | [Ryan Connor](https://www.linkedin.com/in/ryan-connor-18216598/)                | $1400                      |Friday                    |Register for Class?
+| - [SEC 6030](http://www.wilmu.edu/courses/syllabipdf/SEC6030.pdf)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |Register for Class?
+| - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |Register for Class
 -----------------------------
  
 ## Project Managment
