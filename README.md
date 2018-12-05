@@ -6,6 +6,7 @@
 <br/>
 <details>
 <summary>INFORMATION ASSURANCE</summary>
+  <br/>
 <ul>
 <li> THIS ARE THE CLASSES </li>
 <ul>
