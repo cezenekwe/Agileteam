@@ -14,6 +14,7 @@
 </ul>
 <li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
 </ul>
+<br/>
 </details>
 
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
@@ -25,6 +26,7 @@
 | - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 
 <details>
+  <br/>
 <summary>PROJECT MANAGEMENT</summary>
 <ul>
 <li> THIS ARE THE CLASSES </li>
@@ -45,6 +47,7 @@
 | - [IPM 6050](http://www.wilmu.edu/courses/syllabipdf/IPM6050.pdf)                | [Samantha Keys](https://www.linkedin.com/in/samanthafernandez/)              | $1400                      |Wednesday /Thursday       |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 
 <details>
+  <br/>
 <summary>CYBER SECURITY</summary>
 <ul>
 <li> THIS ARE THE CLASSES </li>
