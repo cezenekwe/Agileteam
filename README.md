@@ -3,7 +3,7 @@
 ![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)
 
 ## Master Programs
-
+<br/>
 <details>
 <summary>INFORMATION ASSURANCE</summary>
 <ul>
