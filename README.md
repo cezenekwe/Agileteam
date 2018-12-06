@@ -6,8 +6,8 @@
 <br/>
 [INFORMATION ASSURANCE](Program-1.md)
 <br>
-[Project Managment](Program-2.md)
+[PROJECT MANAGMENT](Program-2.md)
 <br>
-[Cyber Security](Program-3.md)
+[CYBER SECURITY](Program-3.md)
 <br/>
 
