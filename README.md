@@ -8,19 +8,17 @@
 <summary>INFORMATION ASSURANCE</summary>
   <br/>
 <ul>
-<li> COURSES AVAILABLE ARE </li>
-  
-  + SEC6050
-  + SEC6070
-  + SEC6010
-  + SEC6030
-  + SEC6060
+  <details>
+  <summary> COURSES AVAILABLE ARE </summary>
+    + SEC6050
+    + SEC6070
+    + SEC6010
+    + SEC6030
+    + SEC6060
+  </details>
 </ul>
 <br/>
-<br/>
-  <ul>
 <li> THE DETAILS ON INSTRUCTOR, COST AND SCHEDULE IS AS FOLLOWS </li>
-</ul>
 <br/>
 
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
