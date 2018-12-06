@@ -9,7 +9,8 @@
   <br/>
 <ul>
   <details>
-  <summary> COURSES AVAILABLE ARE </summary>
+  <summary>COURSES AVAILABLE ARE </summary>
+    
     + SEC6050
     + SEC6070
     + SEC6010
@@ -18,7 +19,9 @@
   </details>
 </ul>
 <br/>
-<li> THE DETAILS ON INSTRUCTOR, COST AND SCHEDULE IS AS FOLLOWS </li>
+<ul>
+  <details>
+  <summary>THE DETAILS ON INSTRUCTOR,COST AND SCHEDULE IS AS FOLLOWS</summary>
 <br/>
 
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
@@ -28,7 +31,9 @@
 | - [SEC 6010](http://www.wilmu.edu/courses/syllabipdf/SEC6010.pdf)                 | [Ryan Connor](https://www.linkedin.com/in/ryan-connor-18216598/)                | $1400                      |Friday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6030](http://www.wilmu.edu/courses/syllabipdf/SEC6030.pdf)                 | [Jhon Smith](https://www.linkedin.com/in/jhon-smith-058211167/)                | $1400                      |Monday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
-
+</details>
+</ul>
+<br/>
 </details>
 
 <details>
