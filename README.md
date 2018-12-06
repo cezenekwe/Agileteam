@@ -7,7 +7,7 @@
 <details>
 <summary>[INFORMATION ASSURANCE](https://github.com/cezenekwe/Agileteam.wiki.git
 )</summary>
-  <br/>
+<br/>
 <ul>
 <details>
     <summary> <i>COURSES AVAILABLE ARE </i></summary>
