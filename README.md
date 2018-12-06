@@ -8,11 +8,18 @@
 <summary>INFORMATION ASSURANCE</summary>
   <br/>
 <ul>
-<li> THIS ARE THE CLASSES </li>
-<ul>
-<li> INFORMATION ASSURANCE </li>
+<li> COURSES AVAILABLE ARE </li>
+  
+  + SEC6050
+  + SEC6070
+  + SEC6010
+  + SEC6030
+  + SEC6060
 </ul>
-<li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
+<br/>
+<br/>
+  <ul>
+<li> THE DETAILS ON INSTRUCTOR, COST AND SCHEDULE IS AS FOLLOWS </li>
 </ul>
 <br/>
 
