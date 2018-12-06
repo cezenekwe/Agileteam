@@ -37,7 +37,6 @@
 </ul>
 <li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
 </ul>
-</details>
 
 |  Course        | Instructor                  | Cost                       | Schedule                 | Register
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
@@ -46,6 +45,7 @@
 | - [IPM 6010](http://www.wilmu.edu/courses/syllabipdf/IPM6010.pdf)                | [Lebron Jackson](https://www.linkedin.com/in/lebron-jackson-909631160/)             | $1400                      |Wednesday/ Friday         |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [IPM 6030](http://www.wilmu.edu/courses/syllabipdf/IPM6030.pdf)                 | [Paul Curry](https://www.linkedin.com/in/paul-curry-98198124/)                 | $1400                      |Monday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [IPM 6050](http://www.wilmu.edu/courses/syllabipdf/IPM6050.pdf)                | [Samantha Keys](https://www.linkedin.com/in/samanthafernandez/)              | $1400                      |Wednesday /Thursday       |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
+</details>
 
 <details>
   <br/>
@@ -58,7 +58,6 @@
 </ul>
 <li> THIS IS WHERE I WILL PUT DECSRIPTION</li>
 </ul>
-</details>
 
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
@@ -67,5 +66,5 @@
 | - [SEC 6010](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Bret Favre](https://www.linkedin.com/in/brett-favre-0b4b51152/)                 | $1400                      |Friday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6030](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [John Elway](https://www.linkedin.com/in/john-elway-02845121/)                 | $1400                      |Monday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6060](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Steve Young](https://www.linkedin.com/in/steve-young-10847445/)                | $1400                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
-
+</details>
 
