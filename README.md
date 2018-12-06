@@ -5,8 +5,8 @@
 ## Master Programs
 <br/>
 <details>
-<summary>[INFORMATION ASSURANCE</summary](https://github.com/cezenekwe/Agileteam.wiki.git
-)>
+<summary>[INFORMATION ASSURANCE](https://github.com/cezenekwe/Agileteam.wiki.git
+)</summary>
   <br/>
 <ul>
 <details>
