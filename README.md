@@ -4,11 +4,9 @@
 
 ## Master Programs
 <br/>
-<details>
-<summary>INFORMATION ASSURANCE</summary>
+[INFORMATION ASSURANCE](https://github.com/cezenekwe/Agileteam/blob/master/2nd.md)
 <br/>
 <ul>
-<details>
     <summary> <i>COURSES AVAILABLE ARE </i></summary>
     
     + SEC6050
