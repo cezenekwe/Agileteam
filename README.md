@@ -18,7 +18,7 @@
 <br/>
 </details>
 
-|  Course     | Instructor                 | Cost                       | Schedule                 | Register
++ |  Course     | Instructor                 | Cost                       | Schedule                 | Register
 | -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
 | - [SEC 6050](http://www.wilmu.edu/courses/syllabipdf/SEC6050.pdf)| [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)                | $1600                      |Wednesday / Tuesday       | [Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6070](http://www.wilmu.edu/courses/syllabipdf/SEC6070.pdf)                 | [James Jones](https://www.linkedin.com/in/james-jones-809b572/)              | $1600                      |Tuesday / Thursday        |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
