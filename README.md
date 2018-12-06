@@ -4,7 +4,7 @@
 
 ## Master Programs
 <br/>
-[INFORMATION ASSURANCE](https://github.com/cezenekwe/Agileteam/blob/master/2nd.md)
+[INFORMATION ASSURANCE](2nd.md)
 <br/>
 <ul>
     <summary> <i>COURSES AVAILABLE ARE </i></summary>
