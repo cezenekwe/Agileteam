@@ -7,7 +7,8 @@
 Wilmington University's masters' degree programs help you get to the next level of your career. Taught by faculty who are practitioners in their fields, our graduate programs combine theory and research with real-world knowledge and practices so you're prepared to meet the ever-changing demands of professionals and executives across any industry
 <br/>
 
-## Master Programs
+### Master Programs
+<br>
 
 [INFORMATION ASSURANCE](Program-1.md)
 
