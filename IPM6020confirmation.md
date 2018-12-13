@@ -12,4 +12,4 @@ Thank you registering for this class . Confirmation sent to your email shortly â
 
 [home](https://cezenekwe.github.io/Team-Brilliant/)
 <br>
-[back](https://cezenekwe.github.io/Team-Brilliant/Program-2.html)
+[back](Program-2.md)
