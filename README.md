@@ -8,7 +8,7 @@ Wilmington University's masters' degree programs help you get to the next level 
 <br/>
 <br>
 
-### Master Programs
+### Master Programs 
 ---
 
 [INFORMATION ASSURANCE](Program-1.md)
