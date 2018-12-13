@@ -8,4 +8,4 @@
 |[IPM 6030](http://www.wilmu.edu/courses/syllabipdf/IPM6030.pdf) | [Paul Curry](https://www.linkedin.com/in/paul-curry-98198124/)                 | $1400                      |Monday                    |[Register for class? Click here](IPM6030confirmation.md)
 |[IPM 6050](https://wilmu.blackboard.com/bbcswebdav/pid-12994762-dt-content-rid-71415745_1/courses/10106.201910/IPM%206050%20Syllabus%20Fall%202018.pdf)| [Courtney Bethea](https://www.linkedin.com/in/courtney-bethea-mba-pmp-pmi-acp-lssbb-itil-76115a71/)              | $1400                      |Wednesday /Thursday       |[Register for class? Click here](IPM6050confirmation.md)
 
-[home](https://cezenekwe.github.io/backup/)
+[home](https://cezenekwe.github.io/Team-Brilliant/)
